@@ -11,17 +11,17 @@ header{
     text-decoration: none;
 }
 body {
-    background:url('0pal2.jpg');
+    background:url('carl.gif');
 
 }
 body p{
-    color:#eee;
+    color:#ffb;
     font: 14px/1 "lucida console", Monaco, monospace;
     text-align:center;
 }
 
 body a{
-    color:#fff;
+    color:#ff69b4;
     text-transform: none;
     font-size:69px; 
     text-decoration:none;

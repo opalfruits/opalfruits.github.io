@@ -1,0 +1,49 @@
+/* Header */
+header{
+    font: 14px/1 "lucida console", Monaco, monospace;
+    background:#ccc;
+    color:#222;
+    padding-top:10px;
+    padding-bottom:0px;
+    min-height:0px;
+    max-height:40px;
+    border-bottom:#666 2px solid;
+    text-decoration: none;
+}
+body {
+    background:url('0pal2.jpg');
+
+}
+body p{
+    color:#eee;
+    font: 14px/1 "lucida console", Monaco, monospace;
+    text-align:center;
+}
+
+body a{
+    color:#fff;
+    text-transform: none;
+    font-size:69px; 
+    text-decoration:none;
+}
+
+body a:before{
+    text-decoration: none;
+    color:#222;
+}
+
+body a:hover{
+    color:#00ccff;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+body .container {
+    width:80%;
+    margin:auto;
+    overflow:hidden;
+    text-align:center;
+    line-height: 120%;
+    text-decoration: none;
+    padding: 200px;
+}
